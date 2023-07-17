@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Add Vyrnith to Minecraft!"
+  },
+  
+  "language":{
+	"vr_us":{
+		"name":"Vyrnith",
+		"region":"US",
+		"bidirectional":false
+	}
+  }
+}
