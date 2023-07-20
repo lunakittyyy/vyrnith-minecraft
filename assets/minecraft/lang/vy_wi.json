@@ -4861,7 +4861,7 @@
   "options.key.hold": "Hold",
   "options.key.toggle": "Toggle",
   "options.language": "Language...",
-  "options.languageWarning": "Vyrnith translation progress: ~5.32%%",
+  "options.languageWarning": "Vyrnith translation is incomplete!",
   "options.mainHand": "Main Hand",
   "options.mainHand.left": "Left",
   "options.mainHand.right": "Right",
